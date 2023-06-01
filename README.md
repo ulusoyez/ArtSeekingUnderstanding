@@ -5,7 +5,9 @@ We hope to have a collaborative page where scholars from different fields can co
 1) [Publicly available datasets](https://github.com/ulusoyez/TRT/blob/main/Datasets/Publicly%20Accessible%20Links/ReadMe.md)
    -  If you are adding a dataset, please make sure to include necessary citations (if there is any) and some explanations around it. 
       -  Currently (06/02), we have music and movies as main dataset groups. However, feel free to add images or news if you have any publicly available dataset on those.
-3) If yo
+2) [Scales](https://github.com/ulusoyez/TRT/tree/main/Scales)
+   -  We tried to create multiple groups for scales. Please see [the summary of scales](https://github.com/ulusoyez/TRT/blob/main/Scales/ReadMe.md) for available scales. 
+      - If you wish to add a new scale, make sure to include APA 7 citation for the scale and all items of the scale (as well as add the scale info to the [the summary of scales](https://github.com/ulusoyez/TRT/blob/main/Scales/ReadMe.md). 
 
 
 
