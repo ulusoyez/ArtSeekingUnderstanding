@@ -5,7 +5,7 @@
 It was fun for me to read the story.
 I had a good time reading the story.
 The story was entertaining.
-<pre> 
+
 **Appreciation**
 I found the story to be very meaningful.
 I was moved by the story.
