@@ -7,10 +7,13 @@ We hope to have a collaborative page where scholars from different fields can co
       -  Currently (06/02), we have music and movies as main dataset groups. However, feel free to add images or news if you have any publicly available dataset on those.
 2) [Scales](https://github.com/ulusoyez/TRT/tree/main/Scales)
    -  We tried to create multiple groups for scales. Please see [the summary of scales](https://github.com/ulusoyez/TRT/blob/main/Scales/ReadMe.md) for available scales. 
-      - If you wish to add a new scale, make sure to include APA 7 citation for the scale and all items of the scale (as well as add the scale info to the [the summary of scales](https://github.com/ulusoyez/TRT/blob/main/Scales/ReadMe.md). 
+      - If you wish to add a new scale, make sure to include APA 7 citation for the scale and all items of the scale (as well as add the scale info to the [the summary of scales](https://github.com/ulusoyez/TRT/blob/main/Scales/ReadMe.md).
+      - If you are not familiar with APA 7, you can use this website: [Purdue Online Writing Lab](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html).
+ 
 
 
 
 
 
 If you are a grantee (or a research assistant in a related project) and wish to be included as a collaborator, please email your information (e.g., name, project name (and team)) to ulusoyez@msu.edu
+   - In the meantime, you can visit [this website](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to learn about how to format in github md files.
