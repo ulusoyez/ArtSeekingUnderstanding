@@ -3,8 +3,8 @@ Hello everyone! Welcome to the repository for sharing resources among Templeton 
 
 We hope to have a collaborative page where scholars from different fields can come by and utilize. To do so, there are ***a few guidelines*** we wish to note:
 1) Publicly available datasets
-   _If you are adding a dataset, please make sure to include necessary citations (if there is any) and some explanations around it. 
-     _Currently (06/02) we have music and movies as main dataset groups. However, feel free to add images or news if you have any publicly available dataset on those.
+   _  If you are adding a dataset, please make sure to include necessary citations (if there is any) and some explanations around it. 
+     _   Currently (06/02) we have music and movies as main dataset groups. However, feel free to add images or news if you have any publicly available dataset on those.
 3) If yo
 
 
