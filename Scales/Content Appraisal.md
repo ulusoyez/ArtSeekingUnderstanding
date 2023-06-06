@@ -1,4 +1,4 @@
-### Enjoyment and Appreciation
+# Enjoyment and Appreciation
 ## Oliver & Bartsch, 2010 
 <br />
 
