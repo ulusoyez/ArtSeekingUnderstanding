@@ -10,7 +10,7 @@ I look forward to watching my favorite character in future <br />
 If my favorite character appeared on another TV program, I would watch that program <br />
 My favorite character seems to understand the kinds of things I want to know <br />
 If there was a story about my favorite character in a newspaper or magazine, I would read it <br />
-I miss seeing my favorite character sometimes (*Note: the original item reads "when he or she is on vacation" instead of sometimes) <br />
+I miss seeing my favorite character sometimes (_Note: the original item reads "when he or she is on vacation" instead of sometimes_) <br />
 I would like to meet my favorite character in person <br />
 I feel sorry for my favorite character when he or she makes a mistake <br />
 I find my favorite character to be attractive <br />
