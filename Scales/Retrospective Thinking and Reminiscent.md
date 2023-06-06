@@ -41,16 +41,17 @@ Remembering significant event(s) leading to the resolution of the story exactly 
 # Backstory <br />
 
 **Character** <br />
-
 To understand a character(s) better, do you ever imagine a backstory associated with that character(s). <br />
 To understand the motivations/choices made by a character(s) better, do you ever imagine a backstory associated with those motivations of the character(s)? <br />
 To understand certain challenging circumstances faced by a character(s), do you ever imagine a backstory associated with the formation of those circumstances? <br />
 To understand the crucial relationships of a character(s) with other story characters, do you ever imagine a backstory associated with the formation of those relationships? <br />
 
+**Event** <br />
 To understand a situation(s) in Star Wars better, do you ever imagine a backstory associated with that situation(s)? <br />
 To understand a conflict in Stars Wars better, do you ever imagine a backstory associated with that conflict? <br />
 To understand some of the significant events in Star Wars better, do you ever imagine a backstory associated with those events? <br />
 To understand the resolution of a story better, do you ever imagine a backstory associated with some significant events leading to the resolution of that story? <br />
 To understand the circumstances portrayed in Star Wars better, do you ever imagine a backstory associated with those circumstances? <br />
-
+ <br />
+ 
 **Citation:** Sethi, N., Grady, S.M., Ulusoy, E., Baldwin, J.,&Ewoldsen, D. R. (2022). What do we do with narratives after the fact? Exploring dimensions of Retrospective Imaginative Involvement. _Communication Reports_, 35(2), 106–119. https://doi.org/10.1080/08934215.2022.2040558
