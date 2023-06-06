@@ -4,7 +4,7 @@
 
 **Retrospective Imaginative Involvement: Dynamic, Static, and Backstory** <br />
 
-Often, people will go back and think about a TV show or movie and imagine how things might have been different. <br />
+Prompt: Often, people will go back and think about a TV show or movie and imagine how things might have been different. <br />
 <br />
 In this section of the survey, we are interested in those times when you go back and think about Star Wars. Please complete this scale focusing when you imagine how Star Wars could be different AFTER viewing. <br />
 
