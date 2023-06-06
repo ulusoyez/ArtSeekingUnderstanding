@@ -55,3 +55,21 @@ To understand the circumstances portrayed in Star Wars better, do you ever imagi
  <br />
  
 **Citation:** Sethi, N., Grady, S.M., Ulusoy, E., Baldwin, J.,&Ewoldsen, D. R. (2022). What do we do with narratives after the fact? Exploring dimensions of Retrospective Imaginative Involvement. _Communication Reports_, 35(2), 106–119. https://doi.org/10.1080/08934215.2022.2040558
+
+
+## Slater et al., 2018
+
+Prompt: How frequently have you done the following AFTER watching a story TV or movie? 	<br />
+	<br />
+ 
+Imagined you were one of the characters in the story, but having different interactions or having different experiences than actually happened in the story you saw* 	<br />
+Imagined you were one of the characters, experiencing what happened in the story	<br />
+Imagined that you were one of the characters from the story as you went about some activity from your own life*	<br />
+Imagined a character from one show that you watch in a different setting than that TV show or movie (e.g., such as in another TV show or movie or in actual life)?*	<br />
+Imagined having conversations or other interactions with the characters in a show or movie?*	<br />
+Imagined that one of the characters is different from the way that character is portrayed in the show?	<br />
+Imagined a different story or situation involving characters from a story TV show or movie?	<br />
+Imagined what would happen if one or more of the characters in the story had made a different choice or behaved in a different way? <br />
+<br />
+ 
+**Citation:** Slater, M. D., Ewoldsen, D. R., & Woods, K. W. (2018). Extending conceptualization and measurement of narrative engagement after-the-fact: Parasocial relationship and retrospective imaginative involvement. _Media Psychology_, 21(3), 329-351. https://doi.org/10.1080/15213269.2017.1328313
