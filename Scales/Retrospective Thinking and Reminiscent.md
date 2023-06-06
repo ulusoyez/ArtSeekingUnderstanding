@@ -8,7 +8,7 @@ Often, people will go back and think about a TV show or movie and imagine how th
 <br />
 In this section of the survey, we are interested in those times when you go back and think about Star Wars. Please complete this scale focusing when you imagine how Star Wars could be different AFTER viewing. <br />
 
-# Dynamic <br />
+### Dynamic <br />
 
 **Character** <br />
 Imagined being one of the characters from Star Wars as you went about some activity from your own life. <br />
@@ -23,7 +23,7 @@ Imagined the events in Star Wars are events and situations you know and care abo
 Imagined how story event(s) in Star Wars can be related to real-life events. <br />
 Imagined that one of the events in Star Wars happened in your own life. <br />
 
-# Static <br />
+### Static <br />
 
 **Character** <br />
 Remember the interactions between two or more characters. <br />
@@ -38,7 +38,7 @@ Remember what actually happened in Star Wars. <br />
 Remember critical events in the story. <br />
 Remembering significant event(s) leading to the resolution of the story exactly as they occurred in Star Wars. <br />
 
-# Backstory <br />
+### Backstory <br />
 
 **Character** <br />
 To understand a character(s) better, do you ever imagine a backstory associated with that character(s). <br />
