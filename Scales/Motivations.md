@@ -31,3 +31,5 @@ ESCAPE <br />
 1. So 1 can forget about school or other things <br />
 2. So 1 can get away from the rest of the family or others <br />
 3. So 1 can get away from what I'm doing <br />
+
+**Citation:** Rubin, A. M. (1983). Television uses and gratifications: The interactions of viewing patterns and motivations. _Journal of Broadcasting & Electronic Media_, 27(1), 37-51. https://doi.org/10.1080/08838158309386471
