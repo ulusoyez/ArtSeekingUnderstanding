@@ -1,4 +1,4 @@
-### Parasocial Relationships/Interactions
+# Parasocial Relationships/Interactions
 ## Rubin (1987)
 <br />
 
