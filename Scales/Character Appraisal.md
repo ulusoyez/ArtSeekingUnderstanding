@@ -157,9 +157,8 @@ While reading the narrative I had a vivid image of <the character/event/location
 While reading the narrative I had a vivid image of <the character/event/location>. <br />
 While reading the narrative I had a vivid image of <the character/event/location>. <br />
 While reading the narrative I had a vivid image of <the character/event/location>.  <br />
- <br />
 <br />
-**Citation**: Green, M. C., & Brock, T. C. (2000). The role of transportation in the persuasiveness of public narratives. _Journal of Personality and Social Psychology_, 79(5), 701-721. https://doi.org/10.1037//0022-3514.79.5.701 <br />
+**Citation**:Green, M. C., & Brock, T. C. (2000). The role of transportation in the persuasiveness of public narratives. _Journal of Personality and Social Psychology_, 79(5), 701-721. https://doi.org/10.1037//0022-3514.79.5.701 <br />
  
 ## Appel et al., 2015
  <br />
@@ -170,9 +169,8 @@ I wanted to learn how the narrative ended.  <br />
 The narrative affected me emotionally.  <br />
 While reading the narrative I had a vivid image of <character>.  <br />
 While reading the narrative I had a vivid image of <character>.  <br />
-   <br />
 <br />
-**Citation**: Appel, M., Gnambs, T., Richter, T., & Green, M. C. (2015). The transportation scale–short form (TS–SF). _Media Psychology_, 18(2), 243-266. https://doi.org/10.1080/15213269.2014.987400 <br />
- 
- <br />
+**Citation**: Appel, M., Gnambs, T., Richter, T., & Green, M. C. (2015). The transportation scale–short form (TS–SF). _Media Psycholoy_, 18(2), 243-266. https://doi.org/10.1080/15213269.2014.987400 <br />
+<br /> 
+
  
