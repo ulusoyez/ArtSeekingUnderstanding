@@ -50,10 +50,9 @@ During viewing, I felt I could really get inside character X’s head. <br />
 At key moments in the show, I felt I knew exactly what character X was going through. <br />
 While viewing the program, I wanted character X to succeed in achieving his or her goals. <br />
 When character X succeeded I felt joy, but when he or she failed, I was sad. <br />
-
 <br />
-**Citation**:Cohen, J. (2001). Defining identification: A theoretical look at the identification of audiences with media characters. _Mass Communication & Society_, 4(3), 245-264. https://doi.org/10.1207/S15327825MCS0403_01 <br />
- <br />
+**Citation**: Cohen, J. (2001). Defining identification: A theoretical look at the identification of audiences with media characters. _Mass Communication & Society_, 4(3), 245-264. https://doi.org/10.1207/S15327825MCS0403_01 <br />
+<br />
  
  # Perceiving and experiencing fictional characters (PEFiC)
  ## Van Vugt et al, 2005 
@@ -136,7 +135,7 @@ I am satisfied with Bella <br />
 Bella makes me sad <br />
 I am dissatisfied with Bella <br />
 <br />
-**Citation**: Van Vugt, H. C., Hoorn, J. F., Konijn, E. A., & de Bie Dimitriadou, A. (2006). Affective affordances: Improving interface character engagement through Interaction. _International Journal of Human-Computer Studies_, 64(9), 874-888. https://doi.org/10.1016/j.ijhcs.2006.04.008
+**Citation**: Van Vugt, H. C., Hoorn, J. F., Konijn, E. A., & de Bie Dimitriadou, A. (2006). Affective affordances: Improving interface character engagement through Interaction. _International Journal of Human-Computer Studies_, 64(9), 874-888. https://doi.org/10.1016/j.ijhcs.2006.04.008 <br />
 
  
 # Transportation 
@@ -160,8 +159,7 @@ While reading the narrative I had a vivid image of <the character/event/location
 While reading the narrative I had a vivid image of <the character/event/location>.  <br />
  <br />
 <br />
-**Citation**: Green, M. C., & Brock, T. C. (2000). The role of transportation in the persuasiveness of public narratives. _Journal of Personality and Social Psychology_, 79(5), 701-721. https://doi.org/10.1037//0022-3514.79.5.701
- <br />
+**Citation**: Green, M. C., & Brock, T. C. (2000). The role of transportation in the persuasiveness of public narratives. _Journal of Personality and Social Psychology_, 79(5), 701-721. https://doi.org/10.1037//0022-3514.79.5.701 <br />
  
 ## Appel et al., 2015
  <br />
@@ -174,7 +172,7 @@ While reading the narrative I had a vivid image of <character>.  <br />
 While reading the narrative I had a vivid image of <character>.  <br />
    <br />
 <br />
-**Citation**: Appel, M., Gnambs, T., Richter, T., & Green, M. C. (2015). The transportation scale–short form (TS–SF). _Media Psychology_, 18(2), 243-266. https://doi.org/10.1080/15213269.2014.987400
+**Citation**: Appel, M., Gnambs, T., Richter, T., & Green, M. C. (2015). The transportation scale–short form (TS–SF). _Media Psychology_, 18(2), 243-266. https://doi.org/10.1080/15213269.2014.987400 <br />
  
  <br />
  
