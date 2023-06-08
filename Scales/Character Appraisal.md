@@ -139,3 +139,48 @@ I am dissatisfied with Bella <br />
  **Citaion:** Van Vugt, H. C., Hoorn, J. F., Konijn, E. A., & de Bie Dimitriadou, A. (2006). Affective affordances: Improving interface character engagement through Interaction. _International Journal of Human-Computer Studies_, 64(9), 874-888. https://doi.org/10.1016/j.ijhcs.2006.04.008
 
  
+# Transportation 
+## Green & Brock, 2000
+ <br /> 
+**Transportation Scale**
+While I was reading the narrative, I could easily picture the events in it taking place. <br />
+While I was reading the narrative, activity going on in the room around me was on my mind. (R) <br />
+I could picture myself in the scene of the events described in the narrative. <br />
+I was mentally involved in the narrative while reading it. <br />
+After finishing the narrative, I found it easy to put it out of my mind. (R) <br />
+I wanted to learn how the narrative ended. <br />
+The narrative affected me emotionally. <br />
+I found myself thinking of ways the narrative could have turned out differently. <br />
+I found my mind wandering while reading the narrative. (R) <br />
+The events in the narrative are relevant to my everyday life. <br />
+The events in the narrative have changed my life.  <br />
+While reading the narrative I had a vivid image of <the character/event/location>. <br />
+While reading the narrative I had a vivid image of <the character/event/location>. <br />
+While reading the narrative I had a vivid image of <the character/event/location>. <br />
+While reading the narrative I had a vivid image of <the character/event/location>.  <br />
+ <br />
+ 
+  **Citaion:** Green, M. C., & Brock, T. C. (2000). The role of transportation in the persuasiveness of public narratives. _Journal of Personality and Social Psychology_, 79(5), 701-721. https://doi.org/10.1037//0022-3514.79.5.701
+ <br />
+ 
+## Appel et al., 2015
+ <br />
+**Transportation Scale-Short form**
+While I was reading the narrative, I could easily picture the events in it taking place. <br />
+While I was reading the narrative, activity going on in the room around me was on my mind. (R) <br />
+I could picture myself in the scene of the events described in the narrative. <br />
+I was mentally involved in the narrative while reading it. <br />
+After finishing the narrative, I found it easy to put it out of my mind. (R) <br />
+I wanted to learn how the narrative ended. <br />
+The narrative affected me emotionally. <br />
+I found myself thinking of ways the narrative could have turned out differently. <br />
+I found my mind wandering while reading the narrative. (R) <br />
+The events in the narrative are relevant to my everyday life. <br />
+The events in the narrative have changed my life.  <br />
+While reading the narrative I had a vivid image of <the character/event/location>. <br />
+While reading the narrative I had a vivid image of <the character/event/location>. <br />
+While reading the narrative I had a vivid image of <the character/event/location>. <br />
+While reading the narrative I had a vivid image of <the character/event/location>.  <br />
+ <br />
+ 
+  **Citaion:** Green, M. C., & Brock, T. C. (2000). The role of transportation in the persuasiveness of public narratives. _Journal of Personality and Social Psychology_, 79(5), 701-721. https://doi.org/10.1037//0022-3514.79.5.701
