@@ -142,7 +142,8 @@ I am dissatisfied with Bella <br />
 ## Green & Brock, 2000
 <br /> 
 
-**Transportation Scale**
+**Transportation Scale** <br />
+
 While I was reading the narrative, I could easily picture the events in it taking place. <br />
 While I was reading the narrative, activity going on in the room around me was on my mind. (R) <br />
 I could picture myself in the scene of the events described in the narrative. <br />
@@ -164,7 +165,8 @@ While reading the narrative I had a vivid image of <the character/event/location
 ## Appel et al., 2015
 <br />
 
-**Transportation Scale-Short form**
+**Transportation Scale-Short form** <br />
+
 I could picture myself in the scene of the events described in the narrative.  <br />
 I was mentally involved in the narrative while reading it.  <br />
 I wanted to learn how the narrative ended.  <br />
