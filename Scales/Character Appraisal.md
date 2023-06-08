@@ -176,3 +176,30 @@ While reading the narrative I had a vivid image of <character>.  <br />
 <br /> 
 
  
+## Riddle, 2013
+<br />
+
+**Transportation Experience scale** <br />
+
+### Emotional Involvement
+
+After watching this show, I will find it easy to put it out of my mind. <br />
+The TV show affected me emotionally. <br />
+How frightening was the television show you just watched? <br />
+
+### Excitation
+
+The television program I just saw was exciting. <br />
+How exciting was the violence in the show? <br />
+
+### Attention
+
+While I was watching the show, activity going on in the room around me was on my mind. (reverse-coded) <br />
+I found my mind wandering while watching the show. (reverse-coded) <br />
+
+### Mental Rumination
+
+I find myself thinking of ways the show could have turned out differently. <br />
+<br />
+**Citation**: Riddle, K. (2013). Transportation into vivid media violence: A focus on attention, emotions, and mental rumination. _Communication Quarterly_, 61(4), 446-462. https://doi.org/10.1080/01463373.2013.799512 <br />
+<br /> 
