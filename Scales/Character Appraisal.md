@@ -1,3 +1,21 @@
+# Identification
+## Cohen, 2004
+ <br />
+ 
+While viewing program X, I felt as if I was part of the action. <br />
+While viewing program X, I forgot myself and was fully absorbed. <br />
+I was able to understand the events in the program in a manner similar to that in which character X understood them. <br />
+I think I have a good understanding of character X. <br />
+I tend to understand the reasons why character X does what he or she does. <br />
+While viewing the show I could feel the emotions character X portrayed. <br />
+During viewing, I felt I could really get inside character X’s head. <br />
+At key moments in the show, I felt I knew exactly what character X was going through. <br />
+While viewing the program, I wanted character X to succeed in achieving his or her goals. <br />
+When character X succeeded I felt joy, but when he or she failed, I was sad. <br />
+<br />
+**Citation**: Cohen, J. (2001). Defining identification: A theoretical look at the identification of audiences with media characters. _Mass Communication & Society_, 4(3), 245-264. https://doi.org/10.1207/S15327825MCS0403_01 <br />
+<br />
+ 
 # Parasocial Relationships/Interactions
 ## Rubin (1987)
 <br />
@@ -35,27 +53,8 @@ I like to imagine my favorite TV show or movie characters as people I know perso
 <br />
 **Citation**: Slater, M. D., Ewoldsen, D. R., & Woods, K. W. (2018). Extending conceptualization and measurement of narrative engagement after-the-fact: Parasocial relationship and retrospective imaginative involvement. _Media Psychology_, 21(3), 329-351. https://doi.org/10.1080/15213269.2017.1328313 <br />
  
- 
- # Identification
- ## Cohen, 2004
- <br />
- 
-While viewing program X, I felt as if I was part of the action. <br />
-While viewing program X, I forgot myself and was fully absorbed. <br />
-I was able to understand the events in the program in a manner similar to that in which character X understood them. <br />
-I think I have a good understanding of character X. <br />
-I tend to understand the reasons why character X does what he or she does. <br />
-While viewing the show I could feel the emotions character X portrayed. <br />
-During viewing, I felt I could really get inside character X’s head. <br />
-At key moments in the show, I felt I knew exactly what character X was going through. <br />
-While viewing the program, I wanted character X to succeed in achieving his or her goals. <br />
-When character X succeeded I felt joy, but when he or she failed, I was sad. <br />
-<br />
-**Citation**: Cohen, J. (2001). Defining identification: A theoretical look at the identification of audiences with media characters. _Mass Communication & Society_, 4(3), 245-264. https://doi.org/10.1207/S15327825MCS0403_01 <br />
-<br />
- 
- # Perceiving and experiencing fictional characters (PEFiC)
- ## Van Vugt et al, 2005 
+# Perceiving and experiencing fictional characters (PEFiC)
+## Van Vugt et al, 2005 
  <br />
  
 ### Aesthetics 
@@ -139,6 +138,20 @@ I am dissatisfied with Bella <br />
 
  
 # Transportation 
+## Appel et al., 2015
+<br />
+
+**Transportation Scale-Short form** <br />
+I could picture myself in the scene of the events described in the narrative. <br />
+I was mentally involved in the narrative while reading it. <br />
+I wanted to learn how the narrative ended. <br />
+The narrative affected me emotionally. <br />
+While reading the narrative, I had a vivid image of <character/>. <br />
+While reading the narrative, I had a vivid image of <character/>. <br />
+
+**Citation**: Appel, M., Gnambs, T., Richter, T., & Green, M. C. (2015). The transportation scale–short form (TS–SF). _Media Psycholoy_, 18(2), 243-266. https://doi.org/10.1080/15213269.2014.987400 <br />
+<br />
+
 ## Green & Brock, 2000
 <br /> 
 
@@ -161,22 +174,6 @@ While reading the narrative I had a vivid image of <the character/event/location
 While reading the narrative I had a vivid image of <the character/event/location>.  <br />
 <br />
 **Citation**:Green, M. C., & Brock, T. C. (2000). The role of transportation in the persuasiveness of public narratives. _Journal of Personality and Social Psychology_, 79(5), 701-721. https://doi.org/10.1037//0022-3514.79.5.701 <br />
- 
-## Appel et al., 2015
-<br />
-
-**Transportation Scale-Short form** <br />
-
-I could picture myself in the scene of the events described in the narrative.  <br />
-I was mentally involved in the narrative while reading it.  <br />
-I wanted to learn how the narrative ended.  <br />
-The narrative affected me emotionally.  <br />
-While reading the narrative I had a vivid image of <character>.  <br />
-While reading the narrative I had a vivid image of <character>.  <br />
-<br />
-**Citation**: Appel, M., Gnambs, T., Richter, T., & Green, M. C. (2015). The transportation scale–short form (TS–SF). _Media Psycholoy_, 18(2), 243-266. https://doi.org/10.1080/15213269.2014.987400 <br />
-<br /> 
-
  
 ## Riddle, 2013
 <br />
@@ -205,3 +202,9 @@ I find myself thinking of ways the show could have turned out differently. <br /
 <br />
 **Citation**: Riddle, K. (2013). Transportation into vivid media violence: A focus on attention, emotions, and mental rumination. _Communication Quarterly_, 61(4), 446-462. https://doi.org/10.1080/01463373.2013.799512 <br />
 <br /> 
+
+
+
+
+ 
+
