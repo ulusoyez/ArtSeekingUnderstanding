@@ -21,6 +21,21 @@ I find my favorite character to be attractive <br />
 **Citation**: Rubin, A.M., Perse, E. M., & Powell, R. A. (1985). Loneliness, parasocial interaction, and local television news viewing. _Human Communication Research,_ 12, 155-180. https://doi.org/10.1111/j.1468-2958.1985.tb00071.x <br />
  <br />
  
+## Slater et al., 2018
+<br />
+
+**Parasocial Relationships with Characters** <br />
+
+I'm often fascinated by my favorite TV show or movie characters as people. <br />
+I often feel like characters from my favorite TV shows or movies are people I know and care about. <br />
+Seeing my favorite characters in a TV show or movie is like seeing good friends. <br />
+I like to talk to others about what we would have done if we were the character. <br />
+I like to talk to others about what my favorite TV show or movie characters are like as people. <br />
+I like to imagine my favorite TV show or movie characters as people I know personally. <br />
+ 
+**Citation:** Slater, M. D., Ewoldsen, D. R., & Woods, K. W. (2018). Extending conceptualization and measurement of narrative engagement after-the-fact: Parasocial relationship and retrospective imaginative involvement. _Media Psychology_, 21(3), 329-351. https://doi.org/10.1080/15213269.2017.1328313 <br />
+ 
+ 
  # Identification
  ## Cohen, 2004
  <br />
