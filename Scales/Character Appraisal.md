@@ -140,7 +140,8 @@ I am dissatisfied with Bella <br />
  
 # Transportation 
 ## Green & Brock, 2000
- <br /> 
+<br /> 
+
 **Transportation Scale**
 While I was reading the narrative, I could easily picture the events in it taking place. <br />
 While I was reading the narrative, activity going on in the room around me was on my mind. (R) <br />
@@ -161,7 +162,8 @@ While reading the narrative I had a vivid image of <the character/event/location
 **Citation**:Green, M. C., & Brock, T. C. (2000). The role of transportation in the persuasiveness of public narratives. _Journal of Personality and Social Psychology_, 79(5), 701-721. https://doi.org/10.1037//0022-3514.79.5.701 <br />
  
 ## Appel et al., 2015
- <br />
+<br />
+
 **Transportation Scale-Short form**
 I could picture myself in the scene of the events described in the narrative.  <br />
 I was mentally involved in the narrative while reading it.  <br />
