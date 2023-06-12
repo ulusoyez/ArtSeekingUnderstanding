@@ -10,6 +10,7 @@
 ### Depression 
 #### Radloff, 1977<br /> 
 <br />
+
 **CES-D Scale (the Center for Epidemiologic Studies Depression Scale)** <br />
 I was bothered by things that usually don't bother me.<br />
 I did not feel like eating; my appetite was poor.<br />
