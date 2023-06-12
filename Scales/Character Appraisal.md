@@ -17,6 +17,7 @@ When character X succeeded I felt joy, but when he or she failed, I was sad. <br
 <br />
  
 # Parasocial Relationships/Interactions
+
 ## Rubin, 1987
 <br />
 
