@@ -29,6 +29,13 @@
           --Cacioppo et al., 1984
           --Lins de Holanda Coelho et al., 2020
 │   ├── Motivations.md
+│   ├── Problematic Use.md
+        --Addiction
+          --Andreassen et al., 2012
+          --Andreassen et al., 2016
+          --Csibi et al., 2018
+          --Horvath, 2004
+          --Van den Eijnden., 2016
 │   └── Retrospective Thinking and Reminiscent.md
         --Retrospective Imaginative Involvement
           --Sethi et al., 2022
