@@ -42,7 +42,6 @@ I would prefer a task that is intellectual, difficult, and important to one that
 I feel relief rather than satisfaction after completing a task that requires a lot of mental effort. (R) <br />
 It’s enough for me that something gets the job done; I don’t care how or why it works.(R) <br />
 I usually end up deliberating about issues even when they do not affect me personally. <br />
-
 <br />
 **Citation**: Cacioppo, J. T., Petty, R. E., & Feng Kao, C. (1984). The efficient assessment of need for cognition. _Journal of Personality Assessment_, 48(3), 306-307. https://doi.org/10.1207/s15327752jpa4803_13 <br />
 <br />
@@ -57,7 +56,6 @@ Thinking is not my idea of fun. (R) <br />
 I would rather do something that requires little thought than something that is sure to challenge my thinking abilities. (R) <br />
 I really enjoy a task that involves coming up with new solutions to problems. <br />
 I would prefer a task that is intellectual, difficult, and important to one that is somewhat important but does not require much thought. <br />
-
 <br />
 **Citation**: Lins de Holanda Coelho, G., HP Hanel, P., & J. Wolf, L. (2020). The very efficient assessment of need for cognition: Developing a six-item version. _Assessment_, 27(8), 1870-1885. https://doi.org/10.1177/1073191118793208 <br />
 <br />
