@@ -2,10 +2,28 @@
 
 ├── Scales/
 │   ├── Character Appraisal.md
+        --Identification
+          --Cohen, 2004
+        --Parasocial Relationships/Interactions
+          --Rubin, 1987
+          --Slater et al., 2018
+        --Perceiving and Experiencing Fictional Characters (PEFiC)
+          --Van Vugt et al., 2005
+        --Transportation
+          --Appel et al., 2015
+          --Green & Brock, 2000
+          --Riddle, 2013
 │   ├── Content Appraisal.md
+        --Content Challenge (Emotional/Intellectual)
+          --Bartsch & Hartmann, 2017
+        --Enjoyment and Appreciation
+          --Oliver & Bartsch, 2010
+          --Ryan, 1982
 │   ├── Effects.md
 │   ├── Motivations.md
-│   ├── ReadMe.md
 │   └── Retrospective Thinking and Reminiscent.md
+        --Retrospective Imaginative Involvement
+          --Sethi et al., 2022
+          --Slater et al., 2018
 
 ```
