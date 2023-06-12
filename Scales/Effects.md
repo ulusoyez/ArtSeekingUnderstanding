@@ -2,10 +2,8 @@
 ## Scales on individuals' knowledge, understanding, and memory of information <br />
 <br />
 
-# Emotional Effects
-<br />
-
-## Mental Health
+# Emotional Effects <br />
+## Mental Health <br />
 
 ### Depression 
 #### Radloff, 1977<br /> 
