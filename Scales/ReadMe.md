@@ -1,3 +1,5 @@
+**Disclaimer**: While there are some headings which are created to make organization easier on us, we are aware that some of the concepts included under one heading (for example, content appraisal) can be used under another one (for example, effects) in research. Please advise accordingly.
+
 ```
 
 ├── Scales/
