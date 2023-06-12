@@ -33,8 +33,7 @@ Used social media so much that it has had a negative impact on your job/studies?
 **Citation**: Andreassen, C. S., Billieux, J., Griffiths, M. D., Kuss, D. J., Demetrovics, Z., Mazzoni, E., & Pallesen, S. (2016). The relationship between addictive use of social media and video games and symptoms of psychiatric disorders: A large-scale cross-sectional study. _Psychology of Addictive Behaviors_, 30(2), 252-262. http://dx.doi.org/10.1037/adb0000160 <br />
 <br />
 
-## 
-
+## Csibi et al., 2018 <br />
 
 **Smartphone Application-Based Addiction Scale (SABAS)**
 <br />
@@ -48,7 +47,7 @@ Over time, I fiddle around more and more with my smartphone.<br />
 If I cannot use or access my smartphone when I feel like, I feel sad, moody, or irritable.<br />
 If I try to cut the time I use my smartphone, I manage to do so for a while, but then I end up using it as much or more than before.<br />
 <br />
-**Citation**: Csibi, S., Griffiths, M.D., Cook, B. et al. The Psychometric Properties of the Smartphone Application-Based Addiction Scale (SABAS). _Int J Ment Health Addiction_ 16, 393–403 (2018). https://doi.org/10.1007/s11469-017-9787-2 <br />
+**Citation**: Csibi, S., Griffiths, M. D., Cook, B., Demetrovics, Z., & Szabo, A. (2018). The psychometric properties of the smartphone application-based addiction scale (SABAS). _International Journal of Mental Health and Addiction_, https://doi.org/10.1007/s11469-017-9787-2 <br />
 <br />
 
 ## Horvath, 2004
