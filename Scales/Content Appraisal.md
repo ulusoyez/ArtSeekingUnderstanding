@@ -12,9 +12,9 @@ Please select the answer below that best describes YOUR perceptions and experien
 1) No intellectual challenge  o    o    o    o    o    o    o  High intellectual challenge 
 2) No emotional challenge     o    o    o    o    o    o    o  High emotional challenge  <br />
 
-**Citation**: Bartsch, A., & Hartmann, T. (2017). The role of cognitive and affective challenge in entertainment experience. _Communication Research_, 44(1), 29-53. https://doi.org/10.1177/0093650214565921 <br />
+**Citation**: Bartsch, A., & Hartmann, T. (2017). The role of cognitive and affective challenge in entertainment experience. _Communication Research_, 44(1), 29-53. https://doi.org/10.1177/0093650214565921 
 
-
+<br />
 
 # Enjoyment and Appreciation
 ## Oliver & Bartsch, 2010 
