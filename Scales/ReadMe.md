@@ -20,6 +20,12 @@
           --Oliver & Bartsch, 2010
           --Ryan, 1982
 │   ├── Effects.md
+│   ├── Individual Traits.md
+        --Need for Affect
+          --Appel et al., 2012
+        --Need for Cognition
+          --Cacioppo et al., 1984
+          --Lins de Holanda Coelho et al., 2020
 │   ├── Motivations.md
 │   └── Retrospective Thinking and Reminiscent.md
         --Retrospective Imaginative Involvement
