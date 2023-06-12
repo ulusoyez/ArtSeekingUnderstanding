@@ -1,4 +1,4 @@
-**Disclaimer**: While there are some headings which are created to make organization easier on us, we are aware that some of the concepts included under one heading (for example, content appraisal) can be used under another one (for example, effects) in research. Please advise accordingly.
+**Disclaimer**: While there are some files which are created to make organization of scales easier, we are aware that some of the concepts included under one file (for example, content challenge in content appraisal) can be used with a different functiom (for example, effects) in research. Please utilize accordingly.
 
 ```
 
