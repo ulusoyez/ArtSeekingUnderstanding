@@ -32,7 +32,6 @@ I had crying spells.<br />
 I felt sad.<br />
 I felt that people dislike me.<br />
 I could not get "going."<br />
-
 <br />
 **Citation:** Radloff, L. S. (1977). The CES-D scale: A self-report depression scale for research in the general population. _Applied Psychological Measurement_, 1(3), 385-401. https://doi.org/10.1177/014662167700100306<br />
 <br />
