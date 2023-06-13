@@ -1,4 +1,4 @@
-$('#readme').insertBefore('.file-navigation');
+
 
 **Disclaimer**: While there are some files which are created to make organization of scales easier, we are aware that some of the concepts included under one file (for example, content challenge in content appraisal) can be used with a different functiom (for example, effects) in research. Please utilize accordingly.
 
