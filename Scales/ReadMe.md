@@ -22,6 +22,19 @@
           --Oliver & Bartsch, 2010
           --Ryan, 1982
 │   ├── Effects.md
+        --Cognitive Effects
+        --Emotional Effects
+          --Mental health
+            --Depression
+              --Radloff, 1977
+        --Behavioral Effects
+          --General health
+            --Andrykowski et al., 1990
+            --Ware & Shebourne, 1992
+          --Sleep
+            --Buysse et al., 1989
+        --Attitudinal Effects
+        --Developmental Effects
 │   ├── Individual Traits.md
         --Need for Affect
           --Appel et al., 2012
