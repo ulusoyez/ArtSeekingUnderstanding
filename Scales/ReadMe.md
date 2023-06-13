@@ -38,6 +38,8 @@
         --Attitudinal Effects
         --Developmental Effects
 │   ├── Individual Traits.md
+        --Morality
+          --Graham et al., 2011
         --Need for Affect
           --Appel et al., 2012
         --Need for Cognition
