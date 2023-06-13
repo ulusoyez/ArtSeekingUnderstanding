@@ -49,9 +49,10 @@ ______ It is more important to be a team player than to express oneself. <br />
 ______ If I were a soldier and disagreed with my commanding officer’s orders, I would obey anyway because that is my duty. <br />
 ______ Chastity is an important and valuable virtue. <br />
  <br />
-*NOTE.* Please see [this website](www.MoralFoundations.org) for the detailed information on how to score the items.
+*NOTE.* Please see [this website](www.MoralFoundations.org) for the detailed information on how to score the items. <br />
 **Citation**: Graham, J., Nosek, B. A., Haidt, J., Iyer, R., Spassena, K., & Ditto, P. H. (2011). _Moral Foundations Questionnaire (MFQ)_ [Database record]. APA PsycTests. https://doi.org/10.1037/t05651-000
-
+ <br />
+ 
 # Need for Affect
 ## Appel et ala., 2012 <br />
 <br />
