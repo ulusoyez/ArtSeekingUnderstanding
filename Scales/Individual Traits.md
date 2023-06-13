@@ -1,5 +1,5 @@
 # Morality
-## Haidt et al., 2006 <br />
+## Graham et al., 2011 <br />
 <br />
 
 **Moral Foundations Questionnaire(30-item version)** <br />
@@ -54,7 +54,7 @@ ______ Chastity is an important and valuable virtue. <br />
  <br />
  
 # Need for Affect
-## Appel et ala., 2012 <br />
+## Appel et al., 2012 <br />
 <br />
 
 **10-item Need for Affect Questionnaire-Short Form (NAQ-S)** <br />
