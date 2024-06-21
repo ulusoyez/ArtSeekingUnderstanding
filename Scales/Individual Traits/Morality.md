@@ -53,3 +53,100 @@ ______ Chastity is an important and valuable virtue. <br />
 **Citation**: Graham, J., Nosek, B. A., Haidt, J., Iyer, R., Spassena, K., & Ditto, P. H. (2011). _Moral Foundations Questionnaire (MFQ)_ [Database record]. APA PsycTests. https://doi.org/10.1037/t05651-000
  <br />
  
+
+## Curry et al. (2019) <br />
+<br />
+
+**Morality-as-Cooperation (MAC)** <br />
+
+### Relevance Items
+When you decide whether something is right or wrong, to
+what extent are the following considerations relevant to
+your thinking? (0–100; not at all relevant, not very relevant,
+slightly relevant, somewhat relevant, very relevant, extremely
+relevant) <br />
+
+#### Family
+______Whether or not someone acted to protect their family. <br />
+______Whether or not someone helped a member of their family. <br />
+______Whether or not someone’s action showed love for their family. <br />
+
+#### Group
+______Whether or not someone acted in a way that helped their community. <br />
+______Whether or not someone helped a member of their community. <br />
+______Whether or not someone worked to unite a community. <br />
+
+#### Reciprocity
+______Whether or not someone did what they had agreed to do. <br />
+______Whether or not someone kept their promise. <br />
+______Whether or not someone proved that they could be trusted. <br />
+
+#### Heroism
+______Whether or not someone acted heroically. <br />
+______Whether or not someone showed courage in the face of adversity. <br />
+______Whether or not someone was brave. <br />
+
+#### Deference
+______Whether or not someone deferred to those in authority. <br />
+______Whether or not someone disobeyed orders. <br />
+______Whether or not someone showed respect for authority. <br />
+
+#### Fairness
+______Whether or not someone kept the best part for themselves. <br />
+______Whether or not someone showed favouritism. <br />
+______Whether or not someone took more than others. <br />
+
+#### Property
+______Whether or not someone vandalised another person’s property. <br />
+______Whether or not someone kept something that didn’t belong to them. <br />
+______Whether or not someone’s property was damaged. <br />
+
+### Judgement Items
+To what extent do you agree with the following statements?
+(0–100; strongly disagree, disagree, neither agree or disagree,
+agree, strongly agree) <br />
+
+#### Family
+______People should be willing to do anything to help a member of their family. <br />
+______You should always be loyal to your family. <br />
+______You should always put the interests of your family first. <br />
+
+#### Group
+______People have an obligation to help members of their community. <br />
+______It’s important for individuals to play an active role in their communities. <br />
+______You should try to be a useful member of society. <br />
+
+#### Reciprocity
+______You have an obligation to help those who have helped you. <br />
+______You should always make amends for the things you have done wrong. <br />
+______You should always return a favour if you can. <br />
+
+#### Heroism
+______Courage in the face of adversity is the most admirable trait. <br />
+______Society should do more to honour its heroes. <br />
+______To be willing to lay down your life for your country is the height of bravery. <br />
+
+#### Deference
+______People should always defer to their superiors. <br />
+______Society would be better if people were more obedient to authority. <br />
+______You should respect people who are older than you. <br />
+
+#### Fairness
+______Everyone should be treated the same. <br />
+______Everyone’s rights are equally important. <br />
+______The current levels of inequality in society are unfair. <br />
+
+#### Property
+______It’s acceptable to steal food if you are starving. (R) <br />
+______It’s ok to keep valuable items that you find, rather than try to locate the rightful owner. (R) <br />
+______Sometimes you are entitled to take things you need from other people. (R) <br />
+
+
+**Citation**: Curry, O. S., Chesters, M. J., & Van Lissa, C. J., (2019). Mapping morality with a compass: Testing the theory of ‘morality-as-cooperation' with a new questionnaire. Journal of Research in Personality, 78, 106-124. 
+
+
+
+
+
+
+
