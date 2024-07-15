@@ -65,7 +65,45 @@ I find myself thinking of ways the show could have turned out differently. <br /
 <br /> 
 
 
+## Rigby et al. (2019)
+<br />
+
+**Film Immersion Experience Quesionnaire** <br />
+
+### Captivation
+
+To what extent did the ovie hold your attention? <br />
+To what extent did you feel you were focused on the movie? <br />
+How much effort did you put into watching the movie? <br />
+Did you feel you were trying your best to follow the events of the movie? <br />
+To what extent did you feel motivated to keep on watching? <br />
+To what extent were you interested in seeing how the events in the movie would progress? <br />
+How much did you want the events in the movie to unfold successfully for the main characters involved? <br />
+Were you in suspense about how the events would unfold? <br />
+To what extent did you enjoy the cinematography, graphics, and/or imagery? <br />
+How much would you say you enjoyed watching the move? <br />
+When it was over, were you disappointed that you had to stop watching? <br />
+Would you like to watch more of this, or similar content, in the future? <br />
+
+### Real-world Dissociation
+To what extent did you feel consciously aware of being in the real world whilst watching? (R) <br />
+To what extent were you aware of yourself in your surroundings? (R) <br />
+To what extent did you notice events taking place around you? (R) <br />
+
+### Comprehension
+To what extent did you find the concepts and themes of the movie challenging? <br />
+To what extent did you find the concepts and themes easy to understand? <br />
+To what extent did you feel like you were making progress towards understanding what was happening, and what you thought might happen at the end? <br />
+How well do you think you understood what happened? <br />
+
+### Transportation
+To what extent could you picture yourself in the scene of the events shown in the movie? <br />
+To what extent did you feel you were separated from your real-world environment? <br />
+To what extent did you feel that the movie was something you were experiencing rather than something you were just watching? <br />
+To what extent was your sense of being in the environment shown in the movie stronger than your sense of being in the real world?<br />
+At any point did you find yourself become so involved that you wanted to speak to the movie directly? <br />
+
+**Citation**: Rigby, J.M., Brumby, D.P., Gould, S.J.J., & Cox, A. L. (2019). Development of a questionnaire to measure immersion in video media: The film IEQ. in TVX'19 Proceedings of the 2019 AXM International Conference on Interactive Experiences for TV and Online Video. Association for Computing Machinery, 35-46. https://doi.org/10.1145/3317697.3323361
 
 
- 
 
